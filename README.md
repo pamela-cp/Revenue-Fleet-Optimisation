@@ -8,7 +8,7 @@ This project compares three portfolio optimisation frameworks implemented over r
 - NSMV: Normalised Semi-Variance (downside-risk aware)
 - MIMV: Minimum Information Mean-Variance (robust to estimation error)
 
-**🔍 Optimisation Frameworks Included::
+**🔍 Optimisation Frameworks Included:**
 
 1️⃣ Mean-Variance (MV)
 
